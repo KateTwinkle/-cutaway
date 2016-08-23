@@ -105,6 +105,7 @@ h1{
 	padding: 20px 10px 20px 20px;
 	border-radius: 10px;
 	margin-bottom: 20px;
+	text-transform: none;
 }
 .box h3{
 	color:#95c5db;
@@ -115,6 +116,7 @@ h1{
 }
 .box h2, .box img {
     display: inline;
+    text-transform: none;
 }
 .skillset{
 	height: 400px;
